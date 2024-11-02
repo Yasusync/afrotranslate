@@ -1,0 +1,23 @@
+{
+    "name": "afrotranslate",
+    "version": "1.0.0",
+    "description": "AfroTranslate - Effortless language translation and detection, with a focus on Ethiopian languages.",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Yasusync/AfroTranslate"
+    },
+    "keywords": ["translation","Ethiopian" , "language detection", "Amharic", "Tigrigna", "Oromo", "AfroTranslate"],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^0.21.1"
+    },
+    "devDependencies": {
+      "jest": "^26.6.0"
+    }
+  }
+  

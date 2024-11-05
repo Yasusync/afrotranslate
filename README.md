@@ -32,8 +32,6 @@ Here’s how to use the translate and detectLanguage functions:
 const translationResult = await translate("Hello, world!", "am");
 console.log("Translation:", translationResult.translatedText);
 Detect Language Function
-javascript
-Copy code
 const detectedLanguage = await detectLanguage("Bonjour");
 console.log("Detected Language:", detectedLanguage);
 
